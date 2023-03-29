@@ -1,0 +1,15 @@
+.field {
+    flex-direction: column;
+    padding: 25px;
+}
+
+input {
+    display: flex;
+    width: 40%;
+    background-color: #6dc0e7;
+    color: rgb(10, 10, 10);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border-radius: 4px;
+    cursor: pointer;
+}
